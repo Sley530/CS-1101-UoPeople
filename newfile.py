@@ -36,5 +36,3 @@ def myfunct(p):
             myfunct(p//1)
             
 myfunct(7)
-
-        
