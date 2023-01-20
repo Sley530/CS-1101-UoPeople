@@ -35,6 +35,7 @@ for b in test_dups:
 
 
 # Part 2
+
 # The function missing_letters
 def missing_letters(c):
     h = histogram(c)
