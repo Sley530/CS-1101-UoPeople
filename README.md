@@ -3,8 +3,7 @@
 This repository contains all the projects I have done in the Programming Fundamental course at University of the People
 where we were learning the basic of computer programming.
 Also, we are learning basics of Python programming language.
-This repository will contain all the given Programming Assignment
-during the course.
+Therefore, this repository will contain all the given Programming Assignment along with the topic of each unit.
 
 ## Topics covered in the course
 - Unit 1:
