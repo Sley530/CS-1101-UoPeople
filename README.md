@@ -12,7 +12,7 @@ during the course.
 - Unit 3:
 - Unit 4:
 - Unit 5:
-- Unit 6
+- Unit 6:
 
 
 
