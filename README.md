@@ -6,7 +6,7 @@ Also we are learning basics of Python programming language.
 This repository will contain all the given Programming Assignment
 during the course.
 
-
+## Topics covered in the course
 
 
 
