@@ -9,7 +9,8 @@ during the course.
 ## Topics covered in the course
 - Unit 1:
 - Unit 2:
-
+- Unit 3:
+- Unit 4:
 
 
 
