@@ -7,8 +7,8 @@ This repository will contain all the given Programming Assignment
 during the course.
 
 ## Topics covered in the course
-Unit 1:
-Unit 2:
+- Unit 1:
+- Unit 2:
 
 
 
